@@ -3,6 +3,7 @@
 This API provides access to the [Avalara](http://www.avalara.com/) AvaTax API.
 
 [![Build Status](https://travis-ci.org/adamfortuna/avalara.png)](https://travis-ci.org/adamfortuna/avalara)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcomputology%2Favalara.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcomputology%2Favalara?ref=badge_shield)
 
 ## Setup
 
@@ -103,3 +104,7 @@ If you want to contribute, please fork this repo and make a pull request back. I
 * [James Cox](https://github.com/imajes)
 * [Dan Sosedoff](http://github.com/sosedoff)
 * [Leo Correa](https://github.com/Tonkpils)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcomputology%2Favalara.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcomputology%2Favalara?ref=badge_large)
